@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1670316360 source:d:\code-blocks_workspace\fwd-test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MNGR_Sensors.h"
+
+1670274001 d:\code-blocks_workspace\fwd-test\mngr_sensors.h
+	"COMMONS.h"
+	"STD_DATA_TYPES.h"
+	"Errors.h"
+
+1666110549 d:\code-blocks_workspace\fwd-test\commons.h
+
+1670291288 d:\code-blocks_workspace\fwd-test\std_data_types.h
+
+1670291288 d:\code-blocks_workspace\fwd-test\errors.h
+
+1670275915 source:d:\code-blocks_workspace\fwd-test\mngr_sensors.c
+	"MNGR_Sensors.h"
+
